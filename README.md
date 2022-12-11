@@ -1,2 +1,2 @@
-# Notepad
-First Java Project
+# Notepad in Java Swing
+My first Java Project.
